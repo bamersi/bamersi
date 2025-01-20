@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bamersi
 
-Senior Data Engineer with 20+ years of experience specializing in data warehousing, ETL pipeline development, and cloud infrastructure. Currently working at AWS, focusing on data quality monitoring and dimensional modeling.
+Senior Data Engineer with 25+ years of experience specializing in data warehousing, ETL pipeline development, and cloud infrastructure. Currently working at AWS, focusing on data quality monitoring and dimensional modeling.
 
 ## 🛠 Tech Stack
 - **Cloud & Data Warehouse**: AWS (EC2, S3, IAM, Redshift, Athena), Azure
